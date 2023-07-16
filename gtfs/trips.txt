@@ -1,0 +1,12 @@
+route_id,service_id,trip_id,shape_id,bikes_allowed,wheelchair_accessible,trip_headsign
+TIRI,TIRI-Weekday-City-Gulf-Tiri,TIRI-Weekday-City-Gulf-Tiri,,0,1,Tiritiri Matangi
+TIRI,TIRI-Weekday-Tiri-Gulf-City,TIRI-Weekday-Tiri-Gulf-City,,0,1,Downtown Auckland
+TIRI-MOTU,TIRI-Weekend-City-Gulf-Tiri,TIRI-Weekend-City-Gulf-Tiri,,0,1,Tiritiri Matangi
+TIRI-MOTU,TIRI-Weekend-Tiri-Gulf-Motu-City,TIRI-Weekend-Tiri-Gulf-Motu-City,,0,1,Downtown Auckland via Motutapu
+MOTU,MOTU-Weekend-City-Motu,MOTU-Weekend-City-Motu,,0,1,Motutapu
+GBI-Car,Wynyard-Tryphena,Wynyard-Tryphena,,1,1,Tryphena
+GBI-Car,Tryphena-Wynyard,Tryphena-Wynyard,,1,1,Wynyard
+RAK-Car,HMB-RAK,HMB-RAK,,1,1,Rakino Island
+RAK-Car,HMB-RAK,RAK-HMB,,1,1,Half Moon Bay
+KP-Car,HMB-KP,HMB-KP,,1,1,Kennedy Point
+KP-Car,KP-HMB,KP-HMB,,1,1,Half Moon Bay

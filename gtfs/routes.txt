@@ -1,0 +1,7 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+explore,TIRI,Tiri,Downtown — Tiritiri Matangi Island,4,,f4cc0b,000000
+explore,TIRI-MOTU,Tiri-Motu,Downtown — Tiritiri Matangi Island via Motutapu Island,4,,f4cc0b,000000
+explore,MOTU,Motu,Downtown — Motutapu Island,4,,f4cc0b,000000
+sealink,GBI-Car,Tryphena,Wynyard Quarter - Tryphena (Great Barrier Island),4,,d61b26,ffffff
+sealink,KP-Car,KennedyPt,Half Moon Bay — Kennedy Point (Waiheke),4,,d61b26,ffffff
+sealink,RAK-Car,Rakino,Half Moon Bay — Rakino Island,4,,d61b26,ffffff

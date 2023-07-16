@@ -1,0 +1,10 @@
+stop_id,stop_code,platform_code,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+9690,9690,,Gulf Harbour Ferry Terminal,-36.6244384,174.7878871,https://osm.org/node/5317906263,0,,Pacific/Auckland,1
+VaiductMarina,VaiductMarina,,Viaduct Marina,-36.8425177,174.7630940,https://osm.org/node/10836852529,0,,Pacific/Auckland,2
+HomeBay,HomeBay,,Motutapu - Home Bay,-36.7671415,174.9330173,https://osm.org/node/699620938,0,,Pacific/Auckland,0
+Tiri,Tiri,,Tiritiri Matangi Island,-36.6058568,174.8880205,https://osm.org/node/721208874,0,,Pacific/Auckland,0
+Wynyard,Wynyard,,Wynyard Quarter Car Ferry,-36.8381351,174.7553112,https://osm.org/node/5311163349,0,,Pacific/Auckland,2
+HMB,HMB,,Half Moon Bay Car Ferry,-36.8797935,174.8967520,https://osm.org/node/1686599899,0,,Pacific/Auckland,2
+KP,KP,,Kennedy Point (Waiheke) Car Ferry,-36.8089177,175.0269509,https://osm.org/node/1006197619,0,,Pacific/Auckland,2
+Tryphena,Tryphena,,Tryphena (Great Barrier Island) Car Ferry,-36.3202746,175.4856210,https://osm.org/node/841021589,0,,Pacific/Auckland,2
+Rakino,Rakino,,Rakino Car Ferry,-36.7250447,174.9501659,https://osm.org/node/4305602635,0,,Pacific/Auckland,2

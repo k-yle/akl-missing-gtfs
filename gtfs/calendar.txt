@@ -1,0 +1,10 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+TIRI-Weekday-City-Gulf-Tiri,0,0,1,1,1,0,0,20230101,20260101
+TIRI-Weekday-Tiri-Gulf-City,0,0,1,1,1,0,0,20230101,20260101
+TIRI-Weekend-City-Gulf-Tiri,0,0,0,0,0,1,1,20230101,20260101
+TIRI-Weekend-Tiri-Gulf-Motu-City,0,0,0,0,0,1,1,20230101,20260101
+MOTU-Weekend-City-Motu,0,0,0,0,0,1,1,20230101,20260101
+Wynyard-Tryphena,0,1,0,0,1,0,1,20230101,20260101
+Tryphena-Wynyard,0,1,0,0,1,0,1,20230101,20260101
+HMB-KP,1,1,1,1,1,1,1,20230101,20260101
+KP-HMB,1,1,1,1,1,1,1,20230101,20260101
